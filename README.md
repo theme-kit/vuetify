@@ -13,7 +13,7 @@ You can check the demo of this theme here: https://themekit.in
 npm install
 ```
 
-### Complies for Development
+### Compile Code for Development
 ```
 npm run serve
 ```
