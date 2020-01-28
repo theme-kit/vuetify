@@ -13,17 +13,17 @@ You can check the demo of this theme here: https://themekit.in
 npm install
 ```
 
-### Compile Code for Development
+## Compile Code for Development
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+## Compiles and minifies for production
 ```
 npm run build
 ```
 
-### Fix code using Linter
+## Fix code using Linter
 ```
 npm run lint
 ```
